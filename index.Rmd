@@ -1,0 +1,5 @@
+---
+title: "My Amazing Blog"
+site: distill::distill_website
+listing: posts
+---
